@@ -8,6 +8,8 @@ Step1: Go to the root folder of the project
 Step2: Run the existing model:
 python scripts/label_image.py --image <local_image_path>
 
+Test images can be found in the folder (example link ./tf_files/furniture_photos/test/sofa-1.jpg)
+
 Step3: Retrain the model:
 Update the folders chairs, tables, wardrobes or sofas with new images and run
 
