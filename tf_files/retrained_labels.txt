@@ -1,0 +1,4 @@
+chairs
+sofa
+tables
+wardrobes
